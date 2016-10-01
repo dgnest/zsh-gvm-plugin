@@ -1,4 +1,4 @@
-# Plugin Zsh zsh-gvm-plugin
+# Plugin zsh-gvm-plugin
 
 <span class="badges" align="center">
 [![Build Status](https://travis-ci.org/dgnest/zsh-gvm-plugin.svg)](https://travis-ci.org/dgnest/zsh-gvm-plugin)
