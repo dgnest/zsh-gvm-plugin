@@ -1,10 +1,12 @@
 # Plugin zsh-gvm-plugin
 
 <span class="badges" align="center">
+
 [![Build Status](https://travis-ci.org/dgnest/zsh-gvm-plugin.svg)](https://travis-ci.org/dgnest/zsh-gvm-plugin)
 [![Stories in Ready](https://badge.waffle.io/dgnest/zsh-gvm-plugin.svg?label=ready&title=Ready)](http://waffle.io/dgnest/zsh-gvm-plugin)
 [![GitHub issues](https://img.shields.io/github/issues/dgnest/zsh-gvm-plugin.svg)](https://github.com/dgnest/zsh-gvm-plugin/issues)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
+
 </span>
 
 
